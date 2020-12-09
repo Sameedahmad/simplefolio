@@ -24,22 +24,6 @@ To view a live example, **[click here](https://cobidev.com/)**
 
 ---
 
-## Getting Started 🚀
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites 📋
-
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer
-
-```
-node@v10.16.0 or higher
-npm@6.9.0 or higher
-git@2.17.1 or higher
-```
-
----
-
 ## How To Use 🔧
 
 From your command line, clone and run Simplefolio:
